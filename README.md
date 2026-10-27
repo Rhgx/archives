@@ -1,6 +1,6 @@
 # <img src="logo.svg" alt="" width="36" height="36" align="absmiddle"> Archive
 
-Older and retired projects by Rocks, kept online as they were.
+My older and retired projects, kept online as they were.
 
 <a href="https://rhgx.github.io/archives/"><img src="docs/screenshot.webp" alt="The archive page listing retired projects with the year of each" width="600" /></a>
 
@@ -25,8 +25,8 @@ Older and retired projects by Rocks, kept online as they were.
 
 ## About
 
-These projects used to live in [rhgx.github.io](https://github.com/Rhgx/rhgx.github.io). They moved here unchanged when the main site was rebuilt, so their earlier history is still in that repository. Old links such as `rhgx.github.io/slider/` redirect here.
+These projects used to live in [rhgx.github.io](https://github.com/Rhgx/rhgx.github.io). I moved them here unchanged when I rebuilt the main site, so their earlier history is still in that repository. Old links such as `rhgx.github.io/slider/` redirect here.
 
-Nothing here is updated anymore, and some projects may no longer work.
+I don't update anything here anymore, and some projects may no longer work.
 
 To archive another project, follow [Archiving a project](https://github.com/Rhgx/rhgx.github.io/blob/main/docs/development.md#archiving-a-project).
