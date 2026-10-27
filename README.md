@@ -1,22 +1,32 @@
-# archives
+# <img src="logo.svg" alt="" width="36" height="36" align="absmiddle"> Archive
 
-Older and retired projects by Rocks, served at <https://rhgx.github.io/archives/>.
+Older and retired projects by Rocks, kept online as they were.
 
-These used to live in [rhgx.github.io](https://github.com/Rhgx/rhgx.github.io) and were moved here unchanged so the main site could be rebuilt. Their earlier commit history is in that repository. Old links such as `rhgx.github.io/slider/` redirect here.
+<a href="https://rhgx.github.io/archives/"><img src="docs/screenshot.webp" alt="The archive page listing retired projects with the year of each" width="600" /></a>
 
-| Project | Path |
-| --- | --- |
-| TF2 Data Visualizer (v1) | `tf2-data-visualizer-v1/` |
-| Roblox Atlas Generator | `video-to-atlas/` |
-| Slide Puzzle | `slider/` |
-| Krabs Countdown | `krabs-countdown/` |
-| Grow a Garden Update Countdown | `gag-countdown/` |
-| TC2 Competitive Hub | `tc2-comp-hub/` |
-| Turkey Earthquake Tracker | `turkey-earthquake-map/` |
-| TC2 XP Calculator | `tc2-xp-calc/` |
-| TC2 Puzzle Game | `tc2-puzzle/` |
-| TC2 Server Browser | `tc2-server-browser/` |
-| Rock's Typical Item Shop | `rocks-item-shop/` |
-| Lurkr.gg Username Finder | Hosted on Netlify (<https://starlit-shortbread-ca47d4.netlify.app/>), no longer works. Listed only. |
+**[Open the archive](https://rhgx.github.io/archives/)**
 
-To archive another project, add its folder here, add a row to `index.html`, and add its old path to the redirect list in the main site's `public/404.html`.
+## Projects
+
+| Project | Year | Folder |
+| --- | --- | --- |
+| [TF2 Data Visualizer (v1)](https://rhgx.github.io/archives/tf2-data-visualizer-v1/) | 2026 | `tf2-data-visualizer-v1/` |
+| [Roblox Atlas Generator](https://rhgx.github.io/archives/video-to-atlas/) | 2025 | `video-to-atlas/` |
+| [Slide Puzzle](https://rhgx.github.io/archives/slider/) | 2025 | `slider/` |
+| [Krabs Countdown](https://rhgx.github.io/archives/krabs-countdown/) | 2025 | `krabs-countdown/` |
+| [Grow a Garden Update Countdown](https://rhgx.github.io/archives/gag-countdown/) | 2025 | `gag-countdown/` |
+| [TC2 Competitive Hub](https://rhgx.github.io/archives/tc2-comp-hub/) | 2025 | `tc2-comp-hub/` |
+| [Turkey Earthquake Tracker](https://rhgx.github.io/archives/turkey-earthquake-map/) | 2025 | `turkey-earthquake-map/` |
+| [Lurkr.gg Username Finder](https://starlit-shortbread-ca47d4.netlify.app/) | 2025 | Hosted on Netlify; no longer works |
+| [TC2 XP Calculator](https://rhgx.github.io/archives/tc2-xp-calc/) | 2024 | `tc2-xp-calc/` |
+| [TC2 Puzzle Game](https://rhgx.github.io/archives/tc2-puzzle/) | 2024 | `tc2-puzzle/` |
+| [TC2 Server Browser](https://rhgx.github.io/archives/tc2-server-browser/) | 2024 | `tc2-server-browser/` |
+| [Rock's Typical Item Shop](https://rhgx.github.io/archives/rocks-item-shop/) | 2024 | `rocks-item-shop/` |
+
+## About
+
+These projects used to live in [rhgx.github.io](https://github.com/Rhgx/rhgx.github.io). They moved here unchanged when the main site was rebuilt, so their earlier history is still in that repository. Old links such as `rhgx.github.io/slider/` redirect here.
+
+Nothing here is updated anymore, and some projects may no longer work.
+
+To archive another project, follow [Archiving a project](https://github.com/Rhgx/rhgx.github.io/blob/main/docs/development.md#archiving-a-project).
