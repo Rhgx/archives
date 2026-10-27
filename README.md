@@ -17,5 +17,6 @@ These used to live in [rhgx.github.io](https://github.com/Rhgx/rhgx.github.io) a
 | TC2 Puzzle Game | `tc2-puzzle/` |
 | TC2 Server Browser | `tc2-server-browser/` |
 | Rock's Typical Item Shop | `rocks-item-shop/` |
+| Lurkr.gg Username Finder | Hosted on Netlify (<https://starlit-shortbread-ca47d4.netlify.app/>), no longer works. Listed only. |
 
 To archive another project, add its folder here, add a row to `index.html`, and add its old path to the redirect list in the main site's `public/404.html`.
